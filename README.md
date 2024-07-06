@@ -2,6 +2,8 @@
 
 This is a simple E-commerce API built with Node.js, Express, and MongoDB.
 
+## Hosted URL - https://e-com-api-4mls.onrender.com/products
+
 ## Table of Contents
 
 - [Installation](#installation)
